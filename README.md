@@ -1,1 +1,1 @@
-# gitscraper
+# gitScraper
